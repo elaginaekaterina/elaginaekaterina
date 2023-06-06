@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align = "center">
   <a href = "https://www.linkedin.com/in/ekaterina-elagina-459a40254/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
