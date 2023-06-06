@@ -52,7 +52,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/unSNH4zXh1m7q9TbOR
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio" alt="RStudio" width="40" height="40"/>&nbsp;
   </div>
  
-  - Some Libraries and Version Control System:
+  - Some Libraries(not the whole stack) and Version Control System:
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg"  title="MumPy" alt="MumPy" width="40" height="40"/>&nbsp;
