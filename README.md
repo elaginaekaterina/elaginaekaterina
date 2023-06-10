@@ -27,7 +27,7 @@
 I am a Data Scientist <img src="https://media.giphy.com/media/unSNH4zXh1m7q9TbOR/giphy.gif" width="45"> from Russia.
 
 - :woman_student: I have a Master's degree in Systems Analysis.
-- :trophy: I believe that in the field of IT it is necessary to constantly develop, so I additionally take refresher courses from time to time for improving my hard skills and learning something new. 
+- :trophy: I believe that in the field of IT it is necessary to constantly develop, so I additionally take refresher courses from time to time for improving my hard skills and learning something new. [My additional education](https://github.com/elaginaekaterina/Certification) 
 - :zap: In my free time, I write articles on interesting topics from DS, read tech books :books:.
 - :seedling: I am fond of psychology and I love literature that makes life better :sparkles:.
 - :woman_cartwheeling: I workout 6 times a week and adore Pilates.
