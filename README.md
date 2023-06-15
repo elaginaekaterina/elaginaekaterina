@@ -67,11 +67,3 @@ I am a Data Scientist <img src="https://media.giphy.com/media/unSNH4zXh1m7q9TbOR
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elaginaekaterina&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
-
