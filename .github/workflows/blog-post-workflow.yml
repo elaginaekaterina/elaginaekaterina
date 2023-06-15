@@ -2,7 +2,7 @@ name: Latest blog post workflow
 on:
   schedule:
     # Runs every hour
-    - cron: '0 * * * *'
+    - cron: '30 5 17 * * 1,3'
   workflow_dispatch:
 
 jobs:
@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://medium.com/feed/@elaginaekaterina"
+          feed_list: "https://medium.com/feed/@ElaginaEkaterina"
