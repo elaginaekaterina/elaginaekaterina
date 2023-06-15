@@ -65,7 +65,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/unSNH4zXh1m7q9TbOR
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=elaginaekaterina&theme=github-dark&hide_border=true&border_radius=4.8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElaginaEkaterina&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=@ElaginaEkaterina&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
